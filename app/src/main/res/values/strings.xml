@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">android-view-binding</string>
+
+    <string name="activity_main_text_name_label">Name:</string>
+    <string name="activity_main_button_add_name">Add Name</string>
+    <string name="activity_main_button_clear_list">Clean</string>
+    <string name="activity_main_error_label_empty_name">Mandatory Field</string>
+
+</resources>
